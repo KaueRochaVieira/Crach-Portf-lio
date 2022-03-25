@@ -178,7 +178,7 @@ ul {
     content: '';
     width: 64px;
     height: 158px;
-    background: linear-gradient(to right bottom, red, black);
+    background: linear-gradient(to right bottom, #b76f79, #663d42);
     position: inherit;
     /* top: -1000%; */
     bottom: 6px;
